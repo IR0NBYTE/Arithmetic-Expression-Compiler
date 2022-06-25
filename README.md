@@ -1,1 +1,1 @@
-# Compiler
+# *This is an arithmetic expression compiler that compiles add/sub arithmetic expressions into x32 bit assembly fully coded using Java. It saves the assembly code in a file that needs to get compiled using an Asm compiler.* 
