@@ -3,7 +3,7 @@ This is an arithmetic expression compiler written in Java. It is designed to com
 
 ## Features
 * Compiles arithmetic expressions with addition and subtraction operators.
-* Generates x32-bit assembly code as output.
+* Generates x86 assembly code as output.
 * Provides a flexible and extensible platform for handling mathematical expressions.
 
 ## Usage
