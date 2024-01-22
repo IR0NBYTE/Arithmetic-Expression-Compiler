@@ -13,4 +13,4 @@ This is an arithmetic expression compiler written in Java. It is designed to com
 * Compile the generated assembly code using an assembler to produce executable machine code.
 
 ## Compatibility
-This compiler is compatible with Java and x32-bit assembly language. It can be used on various platforms that support these technologies.
+This compiler is compatible with Java and x86 assembly language. It can be used on various platforms that support these technologies.
