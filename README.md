@@ -1,5 +1,5 @@
 ## Arithmetic Expression Compiler
-This is an arithmetic expression compiler written in Java. It is designed to compile arithmetic expressions involving addition and subtraction into x32-bit assembly code. The generated assembly code is saved in a file and can be compiled further using an assembly language compiler.
+This is an arithmetic expression compiler written in Java. It is designed to compile arithmetic expressions involving addition and subtraction into x86 assembly code. The generated assembly code is saved in a file and can be compiled further using an assembly language compiler.
 
 ## Features
 * Compiles arithmetic expressions with addition and subtraction operators.
